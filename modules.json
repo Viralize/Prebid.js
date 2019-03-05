@@ -1,0 +1,13 @@
+[
+    "consentManagement",
+    "appnexusBidAdapter",
+    "smartadserverBidAdapter",
+    "audienceNetworkBidAdapter",
+    "adformBidAdapter",
+    "pubmaticBidAdapter",
+    "aolBidAdapter",
+    "criteoBidAdapter",
+    "improvedigitalBidAdapter",
+    "rubiconBidAdapter",
+    "openxBidAdapter"
+]
