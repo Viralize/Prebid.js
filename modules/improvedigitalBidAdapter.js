@@ -1,7 +1,7 @@
-import * as utils from '../src/utils';
 import { registerBidder } from '../src/adapters/bidderFactory';
 import { config } from '../src/config';
 import { BANNER, NATIVE } from '../src/mediaTypes';
+import * as utils from '../src/utils';
 
 const BIDDER_CODE = 'improvedigital';
 
@@ -267,7 +267,7 @@ export function ImproveDigitalAdServerJSClient(endPoint) {
       STANDARD: 0,
       SECURE: 1
     },
-    AD_SERVER_BASE_URL: 'ad.360yield.com',
+    AD_SERVER_BASE_URL: 'ice.360yield.com',
     END_POINT: endPoint || 'hb',
     AD_SERVER_URL_PARAM: 'jsonp=',
     CLIENT_VERSION: 'JS-5.2.0',
