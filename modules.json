@@ -9,5 +9,6 @@
     "criteoBidAdapter",
     "improvedigitalBidAdapter",
     "rubiconBidAdapter",
-    "openxBidAdapter"
+    "openxBidAdapter",
+    "gamoshiBidAdapter"
 ]
